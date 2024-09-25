@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkorthodox_sentences=self.webpackChunkorthodox_sentences||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/orthodox-sentences/blog","blogTitle":"Blog","authorsListPath":"/orthodox-sentences/blog/authors"}')}}]);
